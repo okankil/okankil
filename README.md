@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @okankil
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on who is not selfish
+- 📫 How to reach me kilkuyrukokan@gmail.com
+- 😄 Pronouns: Kilkuyruk 🙂
+- ⚡ Fun fact: ...
